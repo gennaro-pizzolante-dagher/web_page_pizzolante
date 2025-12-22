@@ -8,3 +8,5 @@
 - Added the README file.
 - Added the .gitignore file.
 - Added the LICENSE file.
+- Added a global CSS stylesheet.
+

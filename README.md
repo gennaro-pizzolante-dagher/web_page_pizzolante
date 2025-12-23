@@ -9,4 +9,4 @@
 - Added the .gitignore file.
 - Added the LICENSE file.
 - Added a global CSS stylesheet.
-
+- Added the main page index.html

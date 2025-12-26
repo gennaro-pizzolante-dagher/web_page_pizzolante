@@ -10,3 +10,5 @@
 - Added the LICENSE file.
 - Added a global CSS stylesheet.
 - Added the main page index.html
+- Added the required HTML pages to the public directory (about, topic, net, contact, degree, and FCE).
+

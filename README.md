@@ -17,3 +17,4 @@
 - Updated topic.html
 - Updated contact.html
 - Updated net.html
+- Generated the changes.log file

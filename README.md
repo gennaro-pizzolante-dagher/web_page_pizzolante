@@ -11,4 +11,8 @@
 - Added a global CSS stylesheet.
 - Added the main page index.html
 - Added the required HTML pages to the public directory (about, topic, net, contact, degree, and FCE).
-
+- Updated about.html
+- Updated degree.html
+- Updated fce.html
+- Updated topic.html
+- Updated contact.html

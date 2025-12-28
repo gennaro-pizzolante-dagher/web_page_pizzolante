@@ -16,3 +16,4 @@
 - Updated fce.html
 - Updated topic.html
 - Updated contact.html
+- Updated net.html
